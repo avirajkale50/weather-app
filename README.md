@@ -19,7 +19,7 @@ The Weather App is a simple and intuitive application built using React and Vite
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   https://github.com/avirajkale50/weather-app.git
    ```
 2. Navigate to the project directory:
    ```sh
